@@ -1,0 +1,129 @@
+ 
+ 
+Mohamed Samir Mahmoud  
+Gender: Male 
+Nationality: Egyptian 
+Marital Status: Single 
+Languages:  Arabic Native Language 
+  English Read/Write 
+Address: Building no. 30 77 Maadi street, Cairo, Egypt. 
+Mobile: +201141914097 
+Email:  msamir.abdelkhalk@gmail.com  
+T  E  C H N I C A L    S K I L L S 
+ 
+Programming Languages 
+ Java 8 Standard Edition  
+ Java 8 Enterprise Edition  
+ C++  
+ 
+Web and Database Technologies 
+ HTML       
+ JDBC, ODBC    
+ JSP & Servlets     
+ JavaScript                                          
+ AngularJs                                          
+ 
+Integrated Development Environments (IDEs) 
+ Eclipse 
+ NetBeans 
+ Microsoft Visual Studio 2013 
+ 
+Database Management Systems DBMS 
+ Microsoft SQL Server 2000/2005/2008 
+ MySQL V5.0 
+ IBM DB2 V10 
+ 
+Application Servers 
+ Apache Tomcat 
+ jetty  
+ IBM WebSphere Application server V8.5 
+Design & Analysis 
+ Object Oriented Design and programming (OOD 
+& OOP) 
+ Software Requirement, Design and analysis 
+Documentation (SRS). 
+ Database designing & implementation concepts. 
+ 
+Case Tools 
+ Sybase Power Designer 6.0 
+ Visual Paradigm  
+            
+             Cloud Platform  
+ Google App Engine  
+ IBM BlueMix. 
+ 
+CTI 
+ Genesys CIM 
+ Genesys Recording  
+ Genesys Reporting 
+ 
+ 
+ 
+ 
+ 
+P R O F E  S S I O N A L    E  X P E  R I EN C E   
+   
+ ISTNetworks 
+ Application Developer                    May 2017 – Currently  
+Working now as application developer over genesys platform. Creating customized Genesys reports, IVR projects and 
+maintaining genesys platform. 
+ 
+ Genesys System Engineer                      October 2016 – April 2017 
+Worked as Genesys system engineer, installing, configuring, testing, maintaining Genesys platform components and 
+applications. Besides, provide support for live support through service edge.  
+  
+G-Planet 
+ Front end developer                       July 2016 – September 2016 
+         Worked as front end developer using JavaScript framework (Angularjs) and BootStrap to provide web abased 
+application.   
+ 
+ 
+ 
+ 
+----------------Page (0) Break----------------
+P R O J  E  C T  S  
+ 
+ISTNetworks 
+ IST Health Check Tool      February 2017 – April 2017 
+             This application aims to send customized contact center interval based reports to check if the solution working as expected or if there are 
+any technical issues.  
+ 
+G-Planet        
+ Barcode App                       July 2016 – September 2016  
+             This application aims to facilitate learning process by helping teachers to evaluate their students, then notify their parents of their actual 
+education level and how much effort they spent to learn. 
+ 
+Freelance  
+ Kidnapped App                                   May 2016 – June 2016 
+             This project aims to help parents to find their children, the system allows user to add new case either kidnapped or found. After that, the 
+system recognizes if there is a matching case in the database or not, based on processing the child images then notify the users about matching 
+case(s) to communicate and reach out their child. 
+ 
+IBM (Internships)                      
+ IBM Survey Tool                                                    July 2014 – September 2014 
+             This project was an internal tool used by IBM employees to evaluate any engagement/project in IBM. The evaluation was based on many 
+factors like "time to prepare the development environment", "time to learn the required skills", "Was there any Kick Off session?", "Was the 
+duration of the project reasonable?" and so on. This is how IBM Survey tool works; the manager initiates the request to start a new survey, 
+choose the appropriate questions from a ready question list and those questions have weight to evaluate the engagement, and send the survey 
+request to the employees. After IBM employees provide their opinions, IBM managers can evaluate the subject engagement from different 
+perspectives.          
+ 
+ IBM Achievements App                            July 2015 – September 2015 
+            The achievement application is an internal IBM tool used by IBM employees to gather their achievements monthly. The main objective of 
+this tool is to facilitate the gathering process of employees' achievements through an automated tool instead of an excel sheet. This how the tool 
+works; IBM employee initiates a new request to add his/her new achievement. Then a mail notification is sent to his manager to approve or reject 
+his/her achievement request. Also IBM managers use this tool for reporting purposes and it helps them to track their employees progress. 
+ 
+Graduation Project 
+ Virtual Optics Store  
+           The main Objective of this project to let customers benefit from online shopping concept by browsing online through glasses in specific 
+optics store, solve the problem of the wrong decisions by letting customers try glasses while being home, make the trail process done at real time 
+to improve customer’s decision.  
+ 
+ 
+E  D U C A T  I O N 
+  
+Faculty of computer and information Cairo University –Egypt 
+ Major: Computer Science Department 
+ Minor: Information Systems Department 
+----------------Page (1) Break----------------
